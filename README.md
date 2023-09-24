@@ -1,2 +1,2 @@
-# laporan-kp
-this repository is created for practical work report
+# Laporan Kerja Praktik (Studi Independen Bangkit Academy 2023)
+This repository is created for practical work reports.
